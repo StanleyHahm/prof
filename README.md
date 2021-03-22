@@ -17,3 +17,7 @@ CAPE at University of Califronia, San Diego is an anonymous online rating sytem 
 
 ### Contribution
 I provided the dataset Seascape for the project and helped write the Dataset section by deciding the observations used and how this project will measure difficulty. Moreover, I got to write the script for dividing up the classes to their respective departments and initiated the analysis by writing early scripts of our graphs explaining if gpa_rec and rec_instr had a positive correlation amongst each department. Finally, I was able to edit the video and powerpoint used in the final presentation of the group project.
+
+
+### Video Presentation
+- <a href=https://youtu.be/n675b9hl1aA/>Group Presentation</a> 
