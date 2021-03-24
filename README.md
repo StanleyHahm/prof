@@ -9,12 +9,17 @@ CAPE at University of Califronia, San Diego is an anonymous online rating sytem 
 ### Libraries Used: 
 
 * pandas
-* nump
+* numpy
 * seaborn
 * matplotlib
 * re
 * patsy
 * statsmodels
+
+### What I did: 
+* Data cleaning (pandas, numpy, re) 
+* Data analysis (seaborn, matplotlib, statsmodels)
+* Video Production (Davinci Resolve, Google Slides, QuickTime) 
 
 ### Contribution:
 
