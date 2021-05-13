@@ -4,7 +4,7 @@
 
 ### Introduction:
 
-CAPE at University of Califronia, San Diego is an anonymous online rating sytem for students to provide feedback to the instrutors and their courses. In this data analysis study, we try to look at the correlation between course difficulty and instructor ratings on CAPE, and whether this correlation is significantly different among courses in different fields of study (STEM, Social Science, and Humanities).
+CAPE at University of California, San Diego is an anonymous online rating system for students to provide feedback to the instructors and their courses. In this data analysis study, we try to look at the correlation between course difficulty and instructor ratings on CAPE, and whether this correlation is significantly different among courses in different fields of study (STEM, Social Science, and Humanities).
 
 ### Libraries Used: 
 
